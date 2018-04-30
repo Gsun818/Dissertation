@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ssjl"
+  id="myeclipse.1386162990607"
+  context-root="/xjzx"
+  j2ee-spec="5.0"
+  archive="ssjl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
